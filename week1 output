@@ -1,0 +1,101 @@
+           |   |
+        ---|---|---
+           |   |
+        ---|---|---
+           |   |
+
+
+Player X, choose position (1-9): 2
+
+
+           | X |  
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player O, choose position (1-9): 3
+
+
+           | X | O
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): 1
+
+
+         X | X | O
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |
+
+
+Player O, choose position (1-9): 5
+
+
+         X | X | O
+        ---|---|---
+           | O |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): x
+Invalid input! Try again.
+
+
+         X | X | O
+        ---|---|---
+           | O |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): 7
+
+
+         X | X | O
+        ---|---|---
+           | O |  
+        ---|---|---
+         X |   |  
+
+
+Player O, choose position (1-9): 9
+
+
+         X | X | O
+        ---|---|---
+           | O |  
+        ---|---|---
+         X |   | O
+
+
+Player X, choose position (1-9): 5
+Position already taken! Try again.
+
+
+         X | X | O
+        ---|---|---
+           | O |  
+        ---|---|---
+         X |   | O
+
+
+Player X, choose position (1-9): 4 
+
+
+         X | X | O
+        ---|---|---
+         X | O |  
+        ---|---|---
+         X |   | O
+
+
+🎉 Player X wins!
+PS C:\Users\admin\Desktop\1bm24cs136> ---
