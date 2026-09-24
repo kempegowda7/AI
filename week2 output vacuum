@@ -1,0 +1,17 @@
+
+=== Starting Simulation ===
+
+--- Step 1 ---
+Perception: Location=A, Status=Clean
+Agent in Room A -> Decided to: Right
+
+--- Step 2 ---
+Perception: Location=B, Status=Dirty
+Agent in Room B -> Decided to: Suck
+✨ Room B successfully cleaned!
+
+=== Simulation Complete ===
+Final Room Conditions: {'A': 0, 'B': 0}
+Total Steps Taken: 2
+Final Performance Score: 8
+PS C:\Users\admin\Desktop\1bm24cs136> 
